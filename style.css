@@ -1,0 +1,48 @@
+.post {
+    width: 450px;
+    height: 550px;
+    border: 5px solid black;
+    margin: auto;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.fa-html5 {
+    font-size: 25px;
+}
+.left {
+    display: flex;
+}
+.name {
+    line-height: 5px;
+    padding: 5px;
+}
+img {
+    width: 100%;
+}
+.icons {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    font-size: 25px;
+}
+
+.left i {
+    margin: 0 3.5px;
+}
+
+.btm-txt {
+    display: flex;
+    line-height: 1px;
+    align-items: center;
+
+    b {
+        margin: 0 3px;
+    }
+}
+
+.desc {
+    padding: 5px;
+}
